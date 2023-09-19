@@ -1,1 +1,1 @@
-# DE_NoSQL
+![Redis Exercises](https://forms.gle/UejRBrEPriVkcBLj8)
