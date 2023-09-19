@@ -1,1 +1,1 @@
-![Redis Exercises](https://forms.gle/UejRBrEPriVkcBLj8)
+[Redis Exercises](https://forms.gle/UejRBrEPriVkcBLj8)
